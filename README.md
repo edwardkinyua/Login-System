@@ -1,1 +1,1 @@
-Current framemowrk, may replace login.php with JavaScript
+Pre-Alpha of Online Assignment Grader.
