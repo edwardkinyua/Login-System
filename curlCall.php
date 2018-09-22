@@ -1,5 +1,5 @@
 <?php
-        echo 'User:'. $_POST['username']; //Test that data is being passed back and forth
+        echo 'Hello '. $_POST['username'] . ' ' . 'this is a temporary login'; //Test that data is being passed back and forth
 
 /*      Commented out for testing
         $middle_url = "web.njit.edu/~meu3/index.html";
